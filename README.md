@@ -12,6 +12,6 @@ Enter the hours and/or minutes of the duration of your study session and click t
 
 <h1>Track Progress: </h1>
 
-Here you can see your all of your study sessions. To view your sessions in text form click the "" button. To view your sessions in a line graph, click the "" button.
+Here you can see your all of your study sessions. To view your sessions in text form click the "Progress Info" button. To view your sessions in a line graph, click the "Progress Graph" button.
 
 ![st_2](https://user-images.githubusercontent.com/46886041/58368400-d620e980-7f16-11e9-9f54-ba25eaea2c97.PNG)
