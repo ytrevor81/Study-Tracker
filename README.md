@@ -2,7 +2,7 @@
 Keep track of your study habits (**this was the first app I ever made)
 
 <h1>Technologies:</h1>
-Python 3 - SQLite3 - Tkinter
+Python 3 - SQLite3 - Tkinter - Matplotlib
 
 <h1>Study Calculator: </h1>
 
