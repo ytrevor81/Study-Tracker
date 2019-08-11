@@ -1,5 +1,5 @@
 # Study-Tracker
-Keep track of your study habits (**this was the first app I ever made)
+A simple app to track study habits
 
 <h1>Technologies:</h1>
 Python 3 - SQLite3 - Tkinter - Matplotlib
